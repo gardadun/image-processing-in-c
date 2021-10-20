@@ -1,0 +1,2 @@
+Research how to use .h files
+Research how to use gitignore for exec files
